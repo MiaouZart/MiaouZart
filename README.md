@@ -10,7 +10,7 @@
       <ul>
         <li>🧪 Science / Mathématiques</li>
         <li>🎮 Jeux vidéo  / SpeedRun</li>
-        <li>👀 modé des jeux</li>
+        <li>👀 modder des jeux</li>
       </ul>
     </td>
   </tr>
