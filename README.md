@@ -21,7 +21,7 @@
 # Mes Projets
 ## Projet Universitaire – [Simulateur de Réseau]("") (C)
 
-Développement d’un simulateur de réseau en langage **C** permettant de créer une topologie composée de **switches** et de **machines**.  
+Développement d’un simulateur de réseau en langage **C** permettant de créer une topologie composée de **switch** et de **machines**.  
 Le simulateur implémente le protocole **STP (Spanning Tree Protocol)** pour assurer la stabilisation automatique du réseau, en évitant les boucles.
 
  **Technologies** : C, structures de données, algorithmes réseaux (STP)
