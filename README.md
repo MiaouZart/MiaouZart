@@ -1,25 +1,21 @@
-# Bienvenue chez Gauthier
+# Bonjour, Je suis MiaouZart !?
+---
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MiaouZart/MiaouZart/blob/main/steins-gate.gif" width="150"/>
+    </td>
+    <td>
+      <h2>Ce que j'aime :</h2>
+      <ul>
+        <li>🎮 Jeux vidéo  / SpeedRun</li>
+        <li>🧪 Science / Mathématiques</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### J'aime
-<ul>
-        <li>l'orienté objet</li>
-        <li>le speedRun</li>
-        <li>le C#</li>
-        <li>faire des mods</li># Je suis MiaouZart
-
-### J'aime
-<ul>
-        <li>l'orienté objets</li>
-        <li>le speedRun</li>
-        <li>faire des mods</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title = "Java" width="50"/>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "C" width="50" />
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title = "C#" width="50" />
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title = "PHP" width="50" />
-</ul>
-
-
-
+---
 
 # Mes Projets
 ## Projet Universitaire – Simulateur de Réseau (C)
@@ -31,38 +27,7 @@ Le simulateur implémente le protocole **STP (Spanning Tree Protocol)** pour ass
 
 ---
 
-##  Projet Universitaire – Jeu Donjons et Dragons (Java)
-
-Conception d’un jeu inspiré de **Donjons et Dragons** en **Java**, avec :
-- Un système de combat au tour par tour
-- La gestion de personnages personnalisables
-
- **Technologies** : Java, POO
-
----
-
-##  Mod pour Beton Brutal – ModMenu (Unity + Harmony)
-
-Développement d’un **menu de gestion de mods** pour le jeu **Beton Brutal**, utilisant **Unity** et la bibliothèque **HarmonyPatcher**.  
-Ce menu permet d’activer/désactiver les différents mods, offrant une meilleure expérience utilisateur et facilitant le debug.
-
- **Technologies** : Unity, C#, HarmonyPatcher
-
-</ul>
-
-
-
-# Mes Projets
-## Projet Universitaire – Simulateur de Réseau (C)
-
-Développement d’un simulateur de réseau en langage **C** permettant de créer une topologie composée de **switches** et de **machines**.  
-Le simulateur implémente le protocole **STP (Spanning Tree Protocol)** pour assurer la stabilisation automatique du réseau, en évitant les boucles.
-
- **Technologies** : C, structures de données, algorithmes réseaux (STP)
-
----
-
-##  Projet Universitaire – Jeu Donjons et Dragons (Java)
+##  Projet Universitaire – [Jeu Donjons et Dragons]("") (Java)
 
 Conception d’un jeu inspiré de **Donjons et Dragons** en **Java**, avec :
 - Un système de combat au tour par tour
@@ -80,7 +45,6 @@ Ce menu permet d’activer/désactiver les différents mods, offrant une meilleu
  **Technologies** : Unity, C#, HarmonyPatcher
 
 
-
-
-        
-    
+## Languages maitrisé 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
