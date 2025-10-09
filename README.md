@@ -1,16 +1,44 @@
-## Hi there 👋
+# Bienvenue chez Gauthier
 
-<!--
-**MiaouZart/MiaouZart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### J'aime
+<ul>
+        <li>l'orienté objects</li>
+        <li>le speedRun</li>
+        <li>le C#</li>
+        <li>faire des mods</li>
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Mes Projects
+## Projet Universitaire – Simulateur de Réseau (C)
+
+Développement d’un simulateur de réseau en langage **C** permettant de créer une topologie composée de **switches** et de **machines**.  
+Le simulateur implémente le protocole **STP (Spanning Tree Protocol)** pour assurer la stabilisation automatique du réseau, en évitant les boucles.
+
+ **Technologies** : C, structures de données, algorithmes réseaux (STP)
+
+---
+
+##  Projet Universitaire – Jeu Donjons et Dragons (Java)
+
+Conception d’un jeu inspiré de **Donjons et Dragons** en **Java**, avec :
+- Un système de combat au tour par tour
+- La gestion de personnages personnalisables
+
+ **Technologies** : Java, POO
+
+---
+
+##  Mod pour Beton Brutal – ModMenu (Unity + Harmony)
+
+Développement d’un **menu de gestion de mods** pour le jeu **Beton Brutal**, utilisant **Unity** et la bibliothèque **HarmonyPatcher**.  
+Ce menu permet d’activer/désactiver les différents mods, offrant une meilleure expérience utilisateur et facilitant le debug.
+
+ **Technologies** : Unity, C#, HarmonyPatcher
+
+
+
+
+        
+    
