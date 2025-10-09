@@ -8,8 +8,9 @@
     <td>
       <h2>Ce que j'aime :</h2>
       <ul>
-        <li>🎮 Jeux vidéo  / SpeedRun</li>
         <li>🧪 Science / Mathématiques</li>
+        <li>🎮 Jeux vidéo  / SpeedRun</li>
+        <li>👀 modé des jeux</li>
       </ul>
     </td>
   </tr>
@@ -18,7 +19,7 @@
 ---
 
 # Mes Projets
-## Projet Universitaire – Simulateur de Réseau (C)
+## Projet Universitaire – [Simulateur de Réseau]("") (C)
 
 Développement d’un simulateur de réseau en langage **C** permettant de créer une topologie composée de **switches** et de **machines**.  
 Le simulateur implémente le protocole **STP (Spanning Tree Protocol)** pour assurer la stabilisation automatique du réseau, en évitant les boucles.
@@ -37,7 +38,7 @@ Conception d’un jeu inspiré de **Donjons et Dragons** en **Java**, avec :
 
 ---
 
-##  Mod pour Beton Brutal – ModMenu (Unity + Harmony)
+##  Mod pour Beton Brutal – [ModMenu]("https://github.com/MiaouZart/BBModMenu/tree/master/BBModMenu") (Unity + Harmony)
 
 Développement d’un **menu de gestion de mods** pour le jeu **Beton Brutal**, utilisant **Unity** et la bibliothèque **HarmonyPatcher**.  
 Ce menu permet d’activer/désactiver les différents mods, offrant une meilleure expérience utilisateur et facilitant le debug.
