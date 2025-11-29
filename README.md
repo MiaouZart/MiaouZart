@@ -19,7 +19,7 @@
 ---
 
 # Mes Projets
-## Projet Universitaire – [Simulateur de Réseau]("https://github.com/MiaouZart/Simulateur-de-Reseau-C") (C)
+## Projet Universitaire – [Simulateur de Réseau](https://github.com/MiaouZart/Simulateur-de-Reseau-C) (C)
 
 Développement d’un simulateur de réseau en langage **C** permettant de créer une topologie composée de **switch** et de **machines**.  
 Le simulateur implémente le protocole **STP (Spanning Tree Protocol)** pour assurer la stabilisation automatique du réseau, en évitant les boucles.
