@@ -28,7 +28,7 @@ Le simulateur implémente le protocole **STP (Spanning Tree Protocol)** pour ass
 
 ---
 
-##  Projet Universitaire – [Jeu Donjons et Dragons]("") (Java)
+##  Projet Universitaire – [Jeu Donjons et Dragons](https://github.com/MiaouZart/DOOnjons-et-Dragons) (Java)
 
 Conception d’un jeu inspiré de **Donjons et Dragons** en **Java**, avec :
 - Un système de combat au tour par tour
