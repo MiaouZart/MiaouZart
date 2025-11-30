@@ -38,7 +38,7 @@ Conception d’un jeu inspiré de **Donjons et Dragons** en **Java**, avec :
 
 ---
 
-##  Mod pour Beton Brutal – [ModMenu](https://github.com/MiaouZart/BBModMenu/tree/master/BBModMenu) (Unity + Harmony)
+##  Mod pour Beton Brutal – [ModMenu](https://github.com/MiaouZart/BBModMenu) (Unity + Harmony)
 
 Développement d’un **menu de gestion de mods** pour le jeu **Beton Brutal**, utilisant **Unity** et la bibliothèque **HarmonyPatcher**.  
 Ce menu permet d’activer/désactiver les différents mods, offrant une meilleure expérience utilisateur et facilitant le debug.
